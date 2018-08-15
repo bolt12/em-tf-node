@@ -1,0 +1,16 @@
+{
+  "name": "em-tf-node",
+  "version": "1.0.0",
+  "description": "EM Algorithm Implementation using Tensorflow JS",
+  "main": "em.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Armando Santos",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.12.3",
+    "@tensorflow/tfjs-node": "^0.1.9",
+    "gaussian": "^1.1.0"
+  }
+}
